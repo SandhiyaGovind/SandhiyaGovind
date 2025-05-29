@@ -35,7 +35,7 @@
 
 | 📁 Project | 📌 Description |
 |-----------|----------------|
-| [🔍 IMDb Data Analysis](https://github.com/sandhiyagovind/IMDB-data-analysis) | Exploratory data analysis of IMDb dataset using pandas, seaborn |
+| [🔍 IMDb Data Analysis](https://github.com/sandhiyagovind/IMDB-Data-Analysis) | Exploratory data analysis of IMDb dataset using pandas, seaborn |
 | [🛍️ E-Commerce Dashboard](https://github.com/yourusername/ecommerce-dashboard) | Built an interactive Power BI dashboard to track sales KPIs |
 | [🎬 Netflix Data Analysis](https://github.com/sandhiyagovind/netflix-eda) | Exploratory data analysis using Pandas, Seaborn & Matplotlib to uncover viewing trends and insights |
 | [📊 Spotify Trends](https://github.com/SandhiyaGovind/Spotify_Data_Analysis) | Analyzed genre trends and listening habits using Spotify dataset |
