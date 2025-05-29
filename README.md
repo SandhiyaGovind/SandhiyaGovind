@@ -52,8 +52,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SandhiyaGovind&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandhiyaGovind&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sandhiyagovind&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhiyagovind&layout=compact&theme=radical" />
 </p>
 
 ---
