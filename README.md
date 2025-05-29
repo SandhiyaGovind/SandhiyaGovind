@@ -38,7 +38,7 @@
 | [🔍 IMDb Data Analysis](https://github.com/yourusername/imdb-analysis) | Exploratory data analysis of IMDb dataset using pandas, seaborn |
 | [🛍️ E-Commerce Dashboard](https://github.com/yourusername/ecommerce-dashboard) | Built an interactive Power BI dashboard to track sales KPIs |
 | [🍟 Chips Customer Segmentation](https://github.com/yourusername/quantium-chips-case) | Segmentation & behavior analysis using RFM and visualization |
-| [📊 Spotify Trends](https://github.com/yourusername/spotify-data-analysis) | Analyzed genre trends and listening habits using Spotify dataset |
+| [📊 Spotify Trends](https://github.com/SandhiyaGovind/Spotify_Data_Analysis) | Analyzed genre trends and listening habits using Spotify dataset |
 
 ---
 
